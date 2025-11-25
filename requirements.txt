@@ -1,0 +1,9 @@
+pillow
+pytesseract
+numpy
+scikit-learn
+rapidfuzz
+nltk
+spacy
+sentence-transformers
+torch
