@@ -138,8 +138,12 @@ python main.py
 
 🖼 Screenshots (Your App UI)
 ⭐ Dashboard UI
+![Dashboard](/mnt/data/de055b39-e9f0-4e18-97d8-a72a6acd3fa5.png)
+
 
 ⭐ Search Results UI
+![Search Results](/mnt/data/db79861e-d3e5-430f-b315-4d2bca661305.png)
+
 
 🤝 Contributing
 
@@ -150,3 +154,6 @@ Pull requests & suggestions are welcome!
 Preeti Khachne
 AI & Data Science Developer
 Creator of SmartShotApp ❤️
+
+Made with ❤️ by Preeti Khachne
+
